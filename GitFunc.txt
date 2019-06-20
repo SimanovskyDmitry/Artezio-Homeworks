@@ -1,3 +1,5 @@
 cd
 git clone http://... .git - скопировать в текущую папку с ссылки
 git branch ... - создать новую ветку
+git checkout <branch_name> - переключение
+git checkout -b <branch_name> - создание и переключение
